@@ -25,9 +25,7 @@ body {
     padding: 1rem;
     border-radius: 8px;
     order: 3;
-    align-self: center; /* Flexbox for button alignment */
     margin-top: auto;
-    width: 90%;
   }
   
   .icon {
